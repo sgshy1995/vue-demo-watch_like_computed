@@ -1,5 +1,9 @@
 # vue-demo-watch_like_computed
 
+- watch 可以模拟 computed
+- 注意 watch 和 computed 的区别以及两者的主要使用场景
+- watch 的 deep 和 immediate
+
 ## Project setup
 ```
 yarn install
